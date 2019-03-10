@@ -5,8 +5,8 @@ Image Builder Library
 
 
 
-.. image:: https://pyup.io/repos/github/yulkes/image-builder-library/shield.svg
-     :target: https://pyup.io/repos/github/yulkes/image-builder-library/
+.. image:: https://pyup.io/repos/github/yulkes/image-builder-lib/shield.svg
+     :target: https://pyup.io/repos/github/yulkes/image-builder-lib/
      :alt: Updates
 
 
