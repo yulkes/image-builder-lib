@@ -1,2 +1,3 @@
 Pillow==6.0
 Click>=6.0
+libraqm
