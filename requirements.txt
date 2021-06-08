@@ -1,2 +1,2 @@
-Pillow==6.0
+Pillow==8.2.0
 Click>=6.0
